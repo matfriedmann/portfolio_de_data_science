@@ -13,6 +13,7 @@ Experiente na plataforma ServiceNow, desenvolvendo soluções de infra-estrutura
 
 Ao longo da minha carreira apercebi-me dos numerosos benefícios da utilização de dados como aliado na tomada de decisões, o que me levou a tornar-me Cientista de Dados, desenvolvendo competências analíticas e técnicas para ajudar a ter impacto nos negócios através de soluções baseadas em dados.
 
+Portfolio também disponível em *Inglês* - [Data Science Porfolio](https://github.com/matfriedmann/data_science_portfolio/blob/main/README.md)
 **Experiência em:** IT Operations Management, Python, Data Analysis, Machine Learning.
 
 **Links:**
